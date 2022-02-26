@@ -1,0 +1,3 @@
+# Dataset Selection
+
+In order to prevent sample bias, 600 Pantone colors were chosen from the six slices of the expanded gamut inks. The Pantone colors were formulated for the expanded gamut ink set as well as for the traditional four-color ink set. Of the 100 colors in each “slice” of the gamut, 50 samples required a graying component. For these 300 total samples there were three different separation values recorded: seven-color, four-color with no GCR, and four- color with maximum GCR. The separation values were recorded and saved in CGATS format. This was then used to generate two targets using i1 Profiler (Figure 8).
