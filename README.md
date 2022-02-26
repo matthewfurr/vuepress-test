@@ -13,12 +13,12 @@
 
 ## Table of Contents
 
-* [Home Page](https://matthewfurr.github.io/ecg-stability-thesis/docs/)
-* [Introduction](https://matthewfurr.github.io/ecg-stability-thesis/docs/intro/)
-* [Literature Review](https://matthewfurr.github.io/ecg-stability-thesis/docs/litreview)
-* [Methodology](https://matthewfurr.github.io/ecg-stability-thesis/docs/methodology/)
-* [Results](https://matthewfurr.github.io/ecg-stability-thesis/docs/results/)
-* [References](https://matthewfurr.github.io/ecg-stability-thesis/docs/references/)
+* [Home Page](https://matthewfurr.github.io/ecg-stability-thesis/)
+* [Introduction](https://matthewfurr.github.io/ecg-stability-thesis/intro/)
+* [Literature Review](https://matthewfurr.github.io/ecg-stability-thesis/litreview)
+* [Methodology](https://matthewfurr.github.io/ecg-stability-thesis/methodology/)
+* [Results](https://matthewfurr.github.io/ecg-stability-thesis/results/)
+* [References](https://matthewfurr.github.io/ecg-stability-thesis/references/)
 * [Data Repository](https://github.com/matthewfurr/ecg-stability-data)
 
 ## Cite this Thesis

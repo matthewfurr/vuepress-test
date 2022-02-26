@@ -11,7 +11,9 @@ export = defineConfig4CustomTheme<ThemeConfig>((ctx) => ({
     logo: "/logo.svg",
     smoothScroll: true,
     editLinks: true,
-    editLinkText: 'Sarah, click me to edit!',
+    editLinkText: 'Report an issue!',
+    docsDir: 'docs',
+    docsBranch: 'master',
     nav: [
       { text: "Intro", link: "/intro/" },
       { text: "Lit Review", link: "/litreview/" },
