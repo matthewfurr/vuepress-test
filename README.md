@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://matthewfurr.github.io/ecg-stability-thesis/" target="_blank">
-    <img src="https://matthewfurr.github.io/vuepress-test/pms-guide.svg" alt="https://matthewfurr.github.io/ecg-stability-thesis/"><br/>
+    <img src="https://matthewfurr.github.io/vuepress-test/pms-guide.webp" alt="https://matthewfurr.github.io/ecg-stability-thesis/"><br/>
   </a>
     The Effect of Press Variation on Color Stability with 4-Color and 7-Color Process Color Tint Builds
 </p>
